@@ -1,50 +1,67 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://github.com/maithili-gohokar.png" width="120" style="border-radius:50%;" />
+<h1 align="center">Hi, I'm Maithili Gohokar 👋</h1>
 
-  <h2>Maithili Gohokar</h2>
-
-  <p>
-    Software Engineer @ Dealermatix Technologies • Salesforce Developer  
-    <br>Double Star Ranger ⭐⭐ • AgentBlazer Legend 🛡️
-  </p>
-</div>
+<h3 align="center">
+Software Engineer @ Dealermatix Technologies | Salesforce Developer | Double Star Ranger | AgentBlazer Legend
+</h3>
 
 ---
 
-<!-- GITHUB METRICS INSPIRED DASHBOARD -->
-<div align="center">
+### 🚀 About Me  
+I’m a passionate **Software Engineer** with a strong foundation in **Data Science** and hands-on experience developing scalable solutions on the **Salesforce platform**.  
+I love building intelligent, efficient, and user-focused applications using **Apex, Lightning Web Components (LWC), SOQL**, and data-driven techniques.
 
-### 📊 GitHub Analytics Dashboard
-
-<img src="https://github-readme-stats.vercel.app/api?username=maithili-gohokar&show_icons=true&theme=dark&hide_border=true" height="160"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maithili-gohokar&theme=dark&hide_border=true" height="160"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithili-gohokar&layout=compact&theme=dark&hide_border=true" height="160"/>
-
-</div>
+I enjoy:
+- Crafting clean, optimized, and scalable code ✨  
+- Designing intelligent automation and interactive components in Salesforce ⚡  
+- Extracting insights from complex datasets 📊  
+- Continuous learning & earning Trailhead superbadges 🎓  
 
 ---
 
-<!-- METRICS SECTION -->
-### 🧩 GitHub Metrics (Advanced)
+### 🏢 Experience  
 
-> Enable metrics by using GitHub Actions (steps provided below)
+#### **Dealermatix Technologies**
+- **Software Engineer** (July 2025 – Present)  
+- **Software Engineer Trainee** (Jan 2025 – July 2025)  
+Working extensively with **Apex**, **LWC**, **SOQL**, API Integrations, platform automation, and user-focused Salesforce solutions.
 
-```yaml
-name: Metrics
-on:
-  schedule: [{cron: "0 * * * *"}]
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          plugins_activity: yes
-          plugins_languages: yes
-          plugins_lines: yes
-          plugins_followup: yes
-          plugins_traffic: yes
+#### **Clustor Computing**  
+**Data Science Intern** (Aug 2023 – Oct 2023)  
+Worked on ML concepts, analytics, data preprocessing, and model interpretation.
+
+---
+
+### 🛠️ Tech Stack  
+**Salesforce:** Apex • LWC • SOQL • Flows • Integrations  
+**Programming:** Python • JavaScript  
+**Data Science:** Analytics • Machine Learning basics  
+**Tools:** Git • VS Code • Postman • Tableau  
+
+---
+
+### 🏅 Certifications  
+- Salesforce Agentforce Specialist  
+- Double Star Ranger (Trailhead)  
+- AgentBlazer Legend  
+- Advanced Google Analytics  
+- ML Fundamentals  
+
+---
+
+### 🌐 Connect With Me  
+📧 Email: **maithiligohokar@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/maithiligohokar](https://www.linkedin.com/in/maithiligohokar)  
+🌐 Portfolio: maithili-gohokar-tdf2jfa.gamma.site  
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maithili-gohokar&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithili-gohokar&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🎉 Fun Fact  
+I love blending **data**, **design**, and **technology** to create meaningful digital experiences!
