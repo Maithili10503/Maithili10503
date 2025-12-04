@@ -1,44 +1,71 @@
-<h1 align="center">Hi, I'm Maithili Gohokar 👋</h1>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi there, I'm <span style="color:#4ea1ff;">Maithili Gohokar</span></h1>
 
 <h3 align="center">
-Software Engineer @ Dealermatix Technologies | Salesforce Developer | Double Star Ranger | AgentBlazer Legend
+Software Engineer @ Dealermatix Technologies • Salesforce Developer  
+Double Star Ranger ⭐ • AgentBlazer Legend ⚡
 </h3>
 
 ---
 
-### 🚀 About Me  
-I’m a passionate **Software Engineer** with a strong foundation in **Data Science** and hands-on experience developing scalable solutions on the **Salesforce platform**.  
-I love building intelligent, efficient, and user-focused applications using **Apex, Lightning Web Components (LWC), SOQL**, and data-driven techniques.
+<!-- About Section -->
+### ✨ About Me
+I'm a dedicated **Software Engineer** with strong expertise in **Salesforce Development**, **Data Science fundamentals**, and building smooth, scalable digital experiences.  
+I specialize in creating impactful solutions using **Apex**, **LWC**, **SOQL**, and automation tools across the Salesforce ecosystem.
 
-I enjoy:
-- Crafting clean, optimized, and scalable code ✨  
-- Designing intelligent automation and interactive components in Salesforce ⚡  
-- Extracting insights from complex datasets 📊  
-- Continuous learning & earning Trailhead superbadges 🎓  
+### 💡 What I Love  
+- Writing clean, modular, and scalable code  
+- Building rich Salesforce UI components  
+- Intelligent automation using Flows & Apex  
+- Exploring analytics & ML fundamentals  
+- Constantly levelling up through hands-on challenges  
 
 ---
 
+<!-- Tech Stack Section -->
+### 🛠️ Technologies & Tools  
+
+<p align="center">
+  <!-- Salesforce -->
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apex-1C1C1C?style=for-the-badge&logo=salesforce&logoColor=00A1E0"/>
+  <img src="https://img.shields.io/badge/LWC-0A75C2?style=for-the-badge&logo=lightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOQL-2C2C2C?style=for-the-badge"/>
+
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
+<!-- Experience Section -->
 ### 🏢 Experience  
 
-#### **Dealermatix Technologies**
-- **Software Engineer** (July 2025 – Present)  
-- **Software Engineer Trainee** (Jan 2025 – July 2025)  
-Working extensively with **Apex**, **LWC**, **SOQL**, API Integrations, platform automation, and user-focused Salesforce solutions.
+#### **Dealermatix Technologies**  
+**Software Engineer** (July 2025 – Present)  
+**Software Engineer Trainee** (Jan 2025 – July 2025)
+
+Worked on enterprise-scale Salesforce development including:  
+- Apex backend logic & automation  
+- Lightning Web Components (LWC)  
+- SOQL & data modelling  
+- API integrations  
+- User-centric Salesforce UI solutions  
 
 #### **Clustor Computing**  
 **Data Science Intern** (Aug 2023 – Oct 2023)  
-Worked on ML concepts, analytics, data preprocessing, and model interpretation.
+Explored ML workflows, data cleaning, analytics, and model evaluation.
 
 ---
 
-### 🛠️ Tech Stack  
-**Salesforce:** Apex • LWC • SOQL • Flows • Integrations  
-**Programming:** Python • JavaScript  
-**Data Science:** Analytics • Machine Learning basics  
-**Tools:** Git • VS Code • Postman • Tableau  
-
----
-
+<!-- Certifications Section -->
 ### 🏅 Certifications  
 - Salesforce Agentforce Specialist  
 - Double Star Ranger (Trailhead)  
@@ -48,20 +75,22 @@ Worked on ML concepts, analytics, data preprocessing, and model interpretation.
 
 ---
 
+<!-- Contact Section -->
 ### 🌐 Connect With Me  
-📧 Email: **maithiligohokar@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/maithiligohokar](https://www.linkedin.com/in/maithiligohokar)  
-🌐 Portfolio: maithili-gohokar-tdf2jfa.gamma.site  
 
----
-
-### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maithili-gohokar&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithili-gohokar&layout=compact&theme=tokyonight" height="160"/>
+  <a href="mailto:maithiligohokar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maithiligohokar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://maithili-gohokar-tdf2jfa.gamma.site">
+    <img src="https://img.shields.io/badge/Portfolio-4ea1ff?style=for-the-badge&logo=web&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🎉 Fun Fact  
-I love blending **data**, **design**, and **technology** to create meaningful digital experiences!
+<!-- Footer -->
+<p align="center">✨ Building meaningful experiences with tech, design & data ✨</p>
